@@ -6,3 +6,4 @@ I'm Robin Lin, and I am a student at Cornell University studying ECE and CS.
 - 📚   I'm learning AWS.
 - 🖥   I am an incoming SWE Intern @ Aurora Innovation (Acquired Uber ATG Q4 2020). 
 
+![](https://komarev.com/ghpvc/?username=robinlin99&color=green)
