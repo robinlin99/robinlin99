@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Robin Lin, a student at Cornell University in Ithaca, NY, studying ECE and CS.
+I'm Robin Lin, a student from Toronto, ON studying ECE/CS at Cornell University in Ithaca, NY.
 
 
 ## 💻 Work Experiences
