@@ -1,7 +1,10 @@
 # Hello! 👋
 
-I'm Robin Lin, a student from Toronto, ON studying ECE/CS at Cornell University in Ithaca, NY.
+I'm Robin! I recently graduated from Cornell University with a B.S in Electrical and Computer Engineering (ECE). I am broadly interested in ML and embedded software engineering within the Robotics industry.
 
+I will start my full-time career as a Software Development Engineer at Amazon Robotics in the Summer of 2022. My focus will be embedded firmware for robotic sensor technologies.
+
+I am always excited to make an impact on society and work on novel problems in the field of machine learning, robotics, and embedded systems engineering. If you have any interesting work opportunities, please feel free to email me at zl755@cornell.edu.
 
 ## 💻 Work Experiences
 - 🦿 Incoming SDE @ Amazon Robotics [Summer 2022]
