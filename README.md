@@ -1,3 +1,3 @@
 # Hello! 👋
 
-I'm Robin! I'm a Embedded SDE at Amazon Robotics. I graduated from Cornell University with a B.S in Electrical and Computer Engineering (ECE) in 2022.
+I'm Robin! I'm currently an Embedded SDE II at Amazon Robotics in Boston, MA. I graduated from Cornell University in 2022 with a B.S. in Electrical and Computer Engineering (ECE).
